@@ -1,5 +1,7 @@
 # Blender Serverless Farm on AWS
 
+******* WIP *******
+
 ```
 docker build -t blender .
 
